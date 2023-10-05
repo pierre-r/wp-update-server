@@ -20,6 +20,7 @@ class Wpup_ZipMetadataParser {
 		'ThemeURI' => 'homepage',
 		'Author' => 'author',
 		'AuthorURI' => 'author_homepage',
+		'Requires' => 'requires',
 		'RequiresPHP' => 'requires_php',
 		'DetailsURI' => 'details_url', //Only for themes.
 		'Depends' => 'depends', // plugin-dependencies plugin

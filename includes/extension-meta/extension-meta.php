@@ -264,6 +264,7 @@ class WshWordPressPackageParser {
 			'Network' => 'Network',
 			'Depends' => 'Depends',
 			'Provides' => 'Provides',
+			'Requires' => 'Requires at least',
 			'RequiresPHP' => 'Requires PHP',
 
 			//Site Wide Only is deprecated in favor of Network.
